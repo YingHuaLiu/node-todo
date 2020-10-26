@@ -21,7 +21,6 @@ program
   });
 
 if (process.argv.length === 2) {
-  console.log('1')
   void api.showAll()
 }
 
